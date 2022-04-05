@@ -1,7 +1,7 @@
 # 👋 Vulk
 > Multipurpose Vue 3 Landing Pages UI Kit built by [cssninjaStudio](https://cssninja.io) and [Digisquad](https://digisquad.io).
 
-![cssninja-discord](https://img.shields.io/discord/785473098069311510?label=joins%20us%20on%20discord&color=6944EC)
+[![cssninja-discord](https://img.shields.io/discord/785473098069311510?label=joins%20us%20on%20discord&color=6944EC)](https://discord.cssninja.io/)
 
 ![Screenshot](https://themeforest.img.customer.envatousercontent.com/files/382583254/vulk-preview.__large_preview.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=357e03a0b4d8159c42f92a30bdeec499"Vulk")
 
